@@ -1,0 +1,32 @@
+@mixin master-div {
+  height: 560px;
+  width: all;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#home {
+  background-image: url("https://source.unsplash.com/random/cloud");
+  @include master-div;
+}
+#about {
+  background-image: url("https://source.unsplash.com/random/about");
+
+  @include master-div;
+}
+#blog {
+  background-image: url("https://source.unsplash.com/random/art");
+
+  @include master-div;
+}
+#services {
+  background-image: url("https://source.unsplash.com/random/services");
+
+  @include master-div;
+}
+#contact {
+  background-image: url("https://source.unsplash.com/random/contact");
+
+  @include master-div;
+}

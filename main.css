@@ -1,0 +1,50 @@
+#home {
+  background-image: url("https://source.unsplash.com/random/cloud");
+  height: 560px;
+  width: all;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#about {
+  background-image: url("https://source.unsplash.com/random/about");
+  height: 560px;
+  width: all;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#blog {
+  background-image: url("https://source.unsplash.com/random/art");
+  height: 560px;
+  width: all;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#services {
+  background-image: url("https://source.unsplash.com/random/services");
+  height: 560px;
+  width: all;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#contact {
+  background-image: url("https://source.unsplash.com/random/contact");
+  height: 560px;
+  width: all;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+/*# sourceMappingURL=main.css.map */
